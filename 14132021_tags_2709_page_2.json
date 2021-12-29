@@ -1,56 +1,42 @@
 [
   {
-    "tag": "minimalistic",
-    "total": 12,
+    "tag": "weekdays",
+    "total": 43,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_minimalistic_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weekdays_index_0.json"
       }
     ]
   },
   {
-    "tag": "alarm",
-    "total": 49,
+    "tag": "kids",
+    "total": 19,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_alarm_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_kids_index_0.json"
       }
     ]
   },
   {
-    "tag": "desenho",
-    "total": 22,
-    "size_max_detail_page": 1,
+    "tag": "simple",
+    "total": 101,
+    "size_max_detail_page": 3,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_desenho_index_0.json"
-      }
-    ]
-  },
-  {
-    "tag": "jogos",
-    "total": 18,
-    "size_max_detail_page": 1,
-    "list_detail": [
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_simple_index_0.json"
+      },
       {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_jogos_index_0.json"
-      }
-    ]
-  },
-  {
-    "tag": "24h",
-    "total": 15,
-    "size_max_detail_page": 1,
-    "list_detail": [
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_simple_index_1.json"
+      },
       {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_24h_index_0.json"
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_simple_index_2.json"
       }
     ]
   },
@@ -66,83 +52,149 @@
     ]
   },
   {
-    "tag": "retro",
-    "total": 16,
+    "tag": "days",
+    "total": 18,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_retro_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_days_index_0.json"
       }
     ]
   },
   {
-    "tag": "supermario",
-    "total": 15,
+    "tag": "batterypercentage",
+    "total": 12,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_supermario_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_batterypercentage_index_0.json"
       }
     ]
   },
   {
-    "tag": "game",
-    "total": 76,
+    "tag": "multilingual",
+    "total": 12,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_multilingual_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "temp",
+    "total": 18,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_temp_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "games",
+    "total": 53,
     "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_game_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_games_index_0.json"
       },
       {
         "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_game_index_1.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_games_index_1.json"
       }
     ]
   },
   {
-    "tag": "stepsprogress",
-    "total": 23,
+    "tag": "sunset",
+    "total": 12,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_stepsprogress_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_sunset_index_0.json"
       }
     ]
   },
   {
-    "tag": "dark",
-    "total": 30,
-    "size_max_detail_page": 1,
+    "tag": "animated",
+    "total": 73,
+    "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_dark_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_animated_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_animated_index_1.json"
       }
     ]
   },
   {
-    "tag": "dance",
-    "total": 15,
-    "size_max_detail_page": 1,
+    "tag": "distance",
+    "total": 468,
+    "size_max_detail_page": 10,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_dance_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_distance_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_distance_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_distance_index_2.json"
+      },
+      {
+        "index_page": 3,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_distance_index_3.json"
+      },
+      {
+        "index_page": 4,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_distance_index_4.json"
+      },
+      {
+        "index_page": 5,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_distance_index_5.json"
+      },
+      {
+        "index_page": 6,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_distance_index_6.json"
+      },
+      {
+        "index_page": 7,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_distance_index_7.json"
+      },
+      {
+        "index_page": 8,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_distance_index_8.json"
+      },
+      {
+        "index_page": 9,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_distance_index_9.json"
       }
     ]
   },
   {
-    "tag": "futbol",
-    "total": 22,
-    "size_max_detail_page": 1,
+    "tag": "bluetooth",
+    "total": 88,
+    "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_futbol_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_bluetooth_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_bluetooth_index_1.json"
       }
     ]
   }

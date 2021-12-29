@@ -1,23 +1,38 @@
 [
   {
-    "tag": "football",
-    "total": 24,
+    "tag": "music",
+    "total": 13,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_football_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_music_index_0.json"
       }
     ]
   },
   {
-    "tag": "nintendo",
-    "total": 17,
+    "tag": "temperature",
+    "total": 67,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_temperature_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_temperature_index_1.json"
+      }
+    ]
+  },
+  {
+    "tag": "watch",
+    "total": 20,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_nintendo_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_watch_index_0.json"
       }
     ]
   },
@@ -33,160 +48,153 @@
     ]
   },
   {
-    "tag": "seconds",
-    "total": 119,
-    "size_max_detail_page": 3,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_seconds_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_seconds_index_1.json"
-      },
-      {
-        "index_page": 2,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_seconds_index_2.json"
-      }
-    ]
-  },
-  {
-    "tag": "brasileiro",
-    "total": 16,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_brasileiro_index_0.json"
-      }
-    ]
-  },
-  {
-    "tag": "gabri98",
-    "total": 11,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_gabri98_index_0.json"
-      }
-    ]
-  },
-  {
-    "tag": "apple",
-    "total": 46,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_apple_index_0.json"
-      }
-    ]
-  },
-  {
-    "tag": "manga",
-    "total": 11,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_manga_index_0.json"
-      }
-    ]
-  },
-  {
-    "tag": "naruto",
-    "total": 19,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_naruto_index_0.json"
-      }
-    ]
-  },
-  {
-    "tag": "sunset",
+    "tag": "batterypercentage",
     "total": 12,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_sunset_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_batterypercentage_index_0.json"
       }
     ]
   },
   {
-    "tag": "distance",
-    "total": 468,
-    "size_max_detail_page": 10,
+    "tag": "weather",
+    "total": 604,
+    "size_max_detail_page": 13,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_distance_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_0.json"
       },
       {
         "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_distance_index_1.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_1.json"
       },
       {
         "index_page": 2,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_distance_index_2.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_2.json"
       },
       {
         "index_page": 3,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_distance_index_3.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_3.json"
       },
       {
         "index_page": 4,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_distance_index_4.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_4.json"
       },
       {
         "index_page": 5,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_distance_index_5.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_5.json"
       },
       {
         "index_page": 6,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_distance_index_6.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_6.json"
       },
       {
         "index_page": 7,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_distance_index_7.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_7.json"
       },
       {
         "index_page": 8,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_distance_index_8.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_8.json"
       },
       {
         "index_page": 9,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_distance_index_9.json"
-      }
-    ]
-  },
-  {
-    "tag": "weekday",
-    "total": 75,
-    "size_max_detail_page": 2,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weekday_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_9.json"
       },
       {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weekday_index_1.json"
+        "index_page": 10,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_10.json"
+      },
+      {
+        "index_page": 11,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_11.json"
+      },
+      {
+        "index_page": 12,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_12.json"
       }
     ]
   },
   {
-    "tag": "sunrise",
-    "total": 11,
+    "tag": "nike",
+    "total": 23,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_sunrise_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_nike_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "pai",
+    "total": 41,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_pai_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "month",
+    "total": 54,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_month_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_month_index_1.json"
+      }
+    ]
+  },
+  {
+    "tag": "watchface",
+    "total": 30,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_watchface_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "stepsprogress",
+    "total": 23,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_stepsprogress_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "girl",
+    "total": 40,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_girl_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "bignumbers",
+    "total": 17,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_bignumbers_index_0.json"
       }
     ]
   }

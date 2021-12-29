@@ -1,130 +1,45 @@
 [
   {
-    "tag": "portugus",
-    "total": 15,
+    "tag": "nintendo",
+    "total": 17,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_portugus_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_nintendo_index_0.json"
       }
     ]
   },
   {
-    "tag": "brasileiro",
+    "tag": "retro",
     "total": 16,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_brasileiro_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_retro_index_0.json"
       }
     ]
   },
   {
-    "tag": "weather",
-    "total": 604,
-    "size_max_detail_page": 13,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_1.json"
-      },
-      {
-        "index_page": 2,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_2.json"
-      },
-      {
-        "index_page": 3,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_3.json"
-      },
-      {
-        "index_page": 4,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_4.json"
-      },
-      {
-        "index_page": 5,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_5.json"
-      },
-      {
-        "index_page": 6,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_6.json"
-      },
-      {
-        "index_page": 7,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_7.json"
-      },
-      {
-        "index_page": 8,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_8.json"
-      },
-      {
-        "index_page": 9,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_9.json"
-      },
-      {
-        "index_page": 10,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_10.json"
-      },
-      {
-        "index_page": 11,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_11.json"
-      },
-      {
-        "index_page": 12,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_12.json"
-      }
-    ]
-  },
-  {
-    "tag": "pokedex",
-    "total": 12,
+    "tag": "italian",
+    "total": 14,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_pokedex_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_italian_index_0.json"
       }
     ]
   },
   {
-    "tag": "dance",
-    "total": 15,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_dance_index_0.json"
-      }
-    ]
-  },
-  {
-    "tag": "animated",
-    "total": 73,
-    "size_max_detail_page": 2,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_animated_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_animated_index_1.json"
-      }
-    ]
-  },
-  {
-    "tag": "spanish",
+    "tag": "dayofweek",
     "total": 18,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_spanish_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_dayofweek_index_0.json"
       }
     ]
   },
@@ -144,57 +59,126 @@
     ]
   },
   {
-    "tag": "futbol",
-    "total": 22,
+    "tag": "days",
+    "total": 18,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_futbol_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_days_index_0.json"
       }
     ]
   },
   {
-    "tag": "vasco",
-    "total": 11,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_vasco_index_0.json"
-      }
-    ]
-  },
-  {
-    "tag": "soccer",
-    "total": 24,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_soccer_index_0.json"
-      }
-    ]
-  },
-  {
-    "tag": "italiano",
+    "tag": "witologic",
     "total": 12,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_italiano_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_witologic_index_0.json"
       }
     ]
   },
   {
-    "tag": "night",
-    "total": 11,
+    "tag": "time",
+    "total": 116,
+    "size_max_detail_page": 3,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_time_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_time_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_time_index_2.json"
+      }
+    ]
+  },
+  {
+    "tag": "genshinimpact",
+    "total": 24,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_night_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_genshinimpact_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "jogos",
+    "total": 18,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_jogos_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "cute",
+    "total": 13,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_cute_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "calories",
+    "total": 353,
+    "size_max_detail_page": 8,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_calories_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_calories_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_calories_index_2.json"
+      },
+      {
+        "index_page": 3,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_calories_index_3.json"
+      },
+      {
+        "index_page": 4,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_calories_index_4.json"
+      },
+      {
+        "index_page": 5,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_calories_index_5.json"
+      },
+      {
+        "index_page": 6,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_calories_index_6.json"
+      },
+      {
+        "index_page": 7,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_calories_index_7.json"
+      }
+    ]
+  },
+  {
+    "tag": "music",
+    "total": 13,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_music_index_0.json"
       }
     ]
   }

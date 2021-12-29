@@ -1,140 +1,53 @@
 [
   {
-    "tag": "simple",
-    "total": 101,
-    "size_max_detail_page": 3,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_simple_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_simple_index_1.json"
-      },
-      {
-        "index_page": 2,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_simple_index_2.json"
-      }
-    ]
-  },
-  {
-    "tag": "manga",
-    "total": 11,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_manga_index_0.json"
-      }
-    ]
-  },
-  {
-    "tag": "floors",
-    "total": 83,
-    "size_max_detail_page": 2,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_floors_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_floors_index_1.json"
-      }
-    ]
-  },
-  {
-    "tag": "calories",
-    "total": 353,
-    "size_max_detail_page": 8,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_calories_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_calories_index_1.json"
-      },
-      {
-        "index_page": 2,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_calories_index_2.json"
-      },
-      {
-        "index_page": 3,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_calories_index_3.json"
-      },
-      {
-        "index_page": 4,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_calories_index_4.json"
-      },
-      {
-        "index_page": 5,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_calories_index_5.json"
-      },
-      {
-        "index_page": 6,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_calories_index_6.json"
-      },
-      {
-        "index_page": 7,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_calories_index_7.json"
-      }
-    ]
-  },
-  {
-    "tag": "km",
-    "total": 11,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_km_index_0.json"
-      }
-    ]
-  },
-  {
-    "tag": "minimalistic",
+    "tag": "multilingual",
     "total": 12,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_minimalistic_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_multilingual_index_0.json"
       }
     ]
   },
   {
-    "tag": "music",
-    "total": 13,
-    "size_max_detail_page": 1,
+    "tag": "anime",
+    "total": 122,
+    "size_max_detail_page": 3,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_music_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_anime_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_anime_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_anime_index_2.json"
       }
     ]
   },
   {
-    "tag": "green",
-    "total": 24,
+    "tag": "alarm",
+    "total": 49,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_green_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_alarm_index_0.json"
       }
     ]
   },
   {
-    "tag": "pokemon",
-    "total": 50,
+    "tag": "watch",
+    "total": 20,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_pokemon_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_watch_index_0.json"
       }
     ]
   },
@@ -150,39 +63,254 @@
     ]
   },
   {
-    "tag": "stepsprogress",
-    "total": 23,
+    "tag": "brasileiro",
+    "total": 16,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_stepsprogress_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_brasileiro_index_0.json"
       }
     ]
   },
   {
-    "tag": "lock",
-    "total": 60,
-    "size_max_detail_page": 2,
+    "tag": "time",
+    "total": 116,
+    "size_max_detail_page": 3,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_lock_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_time_index_0.json"
       },
       {
         "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_lock_index_1.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_time_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_time_index_2.json"
       }
     ]
   },
   {
-    "tag": "white",
-    "total": 33,
+    "tag": "24h",
+    "total": 15,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_white_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_24h_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "nintendo",
+    "total": 17,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_nintendo_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "dark",
+    "total": 30,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_dark_index_0.json"
+      }
+    ]
+  },
+  {
+    "tag": "weather",
+    "total": 604,
+    "size_max_detail_page": 13,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_2.json"
+      },
+      {
+        "index_page": 3,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_3.json"
+      },
+      {
+        "index_page": 4,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_4.json"
+      },
+      {
+        "index_page": 5,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_5.json"
+      },
+      {
+        "index_page": 6,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_6.json"
+      },
+      {
+        "index_page": 7,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_7.json"
+      },
+      {
+        "index_page": 8,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_8.json"
+      },
+      {
+        "index_page": 9,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_9.json"
+      },
+      {
+        "index_page": 10,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_10.json"
+      },
+      {
+        "index_page": 11,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_11.json"
+      },
+      {
+        "index_page": 12,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_weather_index_12.json"
+      }
+    ]
+  },
+  {
+    "tag": "digital",
+    "total": 1384,
+    "size_max_detail_page": 28,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_2.json"
+      },
+      {
+        "index_page": 3,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_3.json"
+      },
+      {
+        "index_page": 4,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_4.json"
+      },
+      {
+        "index_page": 5,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_5.json"
+      },
+      {
+        "index_page": 6,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_6.json"
+      },
+      {
+        "index_page": 7,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_7.json"
+      },
+      {
+        "index_page": 8,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_8.json"
+      },
+      {
+        "index_page": 9,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_9.json"
+      },
+      {
+        "index_page": 10,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_10.json"
+      },
+      {
+        "index_page": 11,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_11.json"
+      },
+      {
+        "index_page": 12,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_12.json"
+      },
+      {
+        "index_page": 13,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_13.json"
+      },
+      {
+        "index_page": 14,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_14.json"
+      },
+      {
+        "index_page": 15,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_15.json"
+      },
+      {
+        "index_page": 16,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_16.json"
+      },
+      {
+        "index_page": 17,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_17.json"
+      },
+      {
+        "index_page": 18,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_18.json"
+      },
+      {
+        "index_page": 19,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_19.json"
+      },
+      {
+        "index_page": 20,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_20.json"
+      },
+      {
+        "index_page": 21,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_21.json"
+      },
+      {
+        "index_page": 22,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_22.json"
+      },
+      {
+        "index_page": 23,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_23.json"
+      },
+      {
+        "index_page": 24,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_24.json"
+      },
+      {
+        "index_page": 25,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_25.json"
+      },
+      {
+        "index_page": 26,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_26.json"
+      },
+      {
+        "index_page": 27,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_digital_index_27.json"
+      }
+    ]
+  },
+  {
+    "tag": "sunset",
+    "total": 12,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_tag_0/raw/main/14132021_dtt_sunset_index_0.json"
       }
     ]
   }
